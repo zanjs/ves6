@@ -17,7 +17,7 @@
     "node": ">=4.1.0"
   },
   "bin": {
-    "ves6":"ves6.js"
+    "ves6":"bin/ves6.js"
   },
   "author": "zanjs",
   "license": "ISC",
