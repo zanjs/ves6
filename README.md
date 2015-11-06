@@ -8,5 +8,5 @@ $ npm install ves6 -g
 
 ### usage
 ```bash
-$ jves6
+$ ves6
 ```

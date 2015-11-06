@@ -1,0 +1,22 @@
+{
+  "name": "ves6",
+  "version": "0.0.0",
+  "description": "a cmd tool to generate `jsconfig.json` for javascript project",
+  "main": "ves6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanjs/ves6.git"
+  },
+  "keywords": [
+    "jsconfig.json"
+  ],
+  "author": "zanjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanjs/ves6/issues"
+  },
+  "homepage": "https://github.com/zanjs/ves6#readme"
+}
