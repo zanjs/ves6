@@ -1,6 +1,6 @@
 {
   "name": "ves6",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "a cmd tool to generate `jsconfig.json` for javascript project",
   "main": "ves6.js",
   "scripts": {
