@@ -1,12 +1,18 @@
 ### ves6
 a cmd tool to generate `jsconfig.json` for javascript project
 
-### install
+一个cmd工具来生成 vs code 的配置文件 支持 es6 语法检查
+
+### install 
 ```bash
 $ npm install ves6 -g
 ```
+安装到全局 
 
 ### usage
 ```bash
 $ ves6
 ```
+在您的项目跟目录下执行 `ves6`
+
+一切为了快捷
