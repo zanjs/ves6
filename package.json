@@ -13,6 +13,12 @@
   "keywords": [
     "jsconfig.json"
   ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "bin": {
+    "ves6":"ves6.js"
+  },
   "author": "zanjs",
   "license": "ISC",
   "bugs": {
